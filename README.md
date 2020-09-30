@@ -1,2 +1,4 @@
 # Gender_Classifier
-Gender Classifier using convolution neural network.
+Here is a Gender Classifier built using Convolutional Neural Networks.
+
+
